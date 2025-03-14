@@ -1,6 +1,6 @@
 # VisionAI: AI That Sees, Listens, and Assists.
 
-![Demo Image](demo.png)
+![Demo Image](visionAI.png)
 
 ## Introduction
 VisionAI is an AI-powered software solution that seamlessly integrates speech recognition, computer vision, and natural language processing to enhance user interactions. Designed to process voice and image inputs from any connected camera and microphone, the system leverages the Gemini API to generate AI-driven responses, which are delivered through high-quality synthesized speech. This technology aims to improve accessibility, efficiency, and user experience across various applications.
@@ -44,6 +44,8 @@ python visionai.py
 4. The system captures an image (if necessary) and processes visual context.
 5. AI generates a response based on the input data.
 6. The response is displayed in the chat panel and spoken aloud.
+
+![Demo Image](architecture.png)
 
 ## Future Enhancements
 - **Multi-Language Support:** Expanding speech recognition and synthesis for global users.
