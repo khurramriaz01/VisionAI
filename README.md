@@ -53,7 +53,7 @@ python visionai.py
 - **Gesture Recognition:** Enhancing user experience through hand gesture commands.
 
 ## Contributors
-- **Khurram Riaz Bhutto** *(Project Developer)*
+- **Khurram Riaz Bhutto** 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
